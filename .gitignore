@@ -3,6 +3,8 @@ fullStack/
 backEnd/
 certs/
 
+functionalComponents/navigation/
+
 **/node_modules
 
 
