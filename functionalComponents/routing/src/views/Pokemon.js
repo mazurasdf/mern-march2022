@@ -7,8 +7,6 @@ const Pokemon = (props) => {
     const {name} = useParams();
 
     useEffect(()=>{
-        console.log("page loaded, useEffect running");
-
         axios.get("https://pokeapi.co/api/v2/pokemon/" + name)
             .then(res => {
                 console.log(res);
