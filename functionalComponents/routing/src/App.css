@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.navBar{
+  height: 100px;
+  width: 100%;
+  background-color: moccasin;
+  border-bottom: 3px solid black;
+}
