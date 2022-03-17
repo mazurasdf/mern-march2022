@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.letter{
+  height:60px;
+  width: 60px;
+  background-color: rgb(97, 97, 97);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3em;
+}
+
+.guess{
+  min-width: 400px;
+}

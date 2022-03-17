@@ -4,6 +4,7 @@ backEnd/
 certs/
 
 functionalComponents/navigation/
+functionalComponents/pokemon-cards/
 
 **/node_modules
 
